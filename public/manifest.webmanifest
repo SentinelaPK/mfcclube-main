@@ -1,0 +1,48 @@
+{
+  "id": "/?homescreen=1",
+  "name": "Mentira Futebol Clube",
+  "short_name": "MFC",
+  "description": "Aplicativo oficial do Mentira Futebol Clube",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
+  "lang": "pt-BR",
+  "categories": ["sports", "lifestyle"],
+  "icons": [
+    {
+      "src": "/pwa-192x192-v2.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512-v2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512-v2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshots/home.png",
+      "sizes": "720x1600",
+      "type": "image/png",
+      "platform": "narrow"
+    },
+    {
+      "src": "/screenshots/ranking.png",
+      "sizes": "720x1600",
+      "type": "image/png",
+      "platform": "narrow"
+    }
+  ]
+}
